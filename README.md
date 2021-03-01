@@ -1,7 +1,3 @@
-# [move.it](http://move.it/)
-
-O [move.it](http://move.it/) é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
-
 <h1 align="center">
 <img alt="[move.it](http://move.it/)" title="[move.it](http://move.it/)" src=".github/logo.png" />
 </h1>
