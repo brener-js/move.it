@@ -42,7 +42,7 @@ Agora você pode acessar `[localhost:3000](http://localhost:3000/)` do seu naveg
 
 ## 📄 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://www.notion.so/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/brener-js/move.it/blob/main/LICENSE.md) para mais detalhes.
 
 ---
 
